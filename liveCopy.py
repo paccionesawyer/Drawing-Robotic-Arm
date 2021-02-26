@@ -38,11 +38,6 @@ wio.baud(9600)
 #                          Read In Velocity and Angles                         #
 ################################################################################
 while True : 
-    curr_leftpos  = left_motor.get()[1]
-    curr_rightpos = right_motor.get()[1]
-    left_pos.append(curr_leftpos)
-    right_pos.append(curr_rightpos)
-        
     curr_leftang  = left_motor.get()[2]
     curr_rightang = right_motor.get()[2]
     wio.write('L' + str(-curr_leftang) + 'R' + str(-curr_rightang) + '\n')
