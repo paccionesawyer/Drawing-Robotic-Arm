@@ -21,9 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Simply download the files in this repository and first run the code on the WIO Terminal using the Arduino IDE. Then run the SPIKE PRIME Code in REPL or the IDE that can be found here, [SPIKE PRIME IDE](https://github.com/chrisbuerginrogers/ME35_21).
-
-### Setup Notes
+Simply download the files in this repository and first run the code on the WIO Terminal using the Arduino IDE. Then run the SPIKE PRIME Code in REPL or the IDE that can be found here, [SPIKE PRIME IDE](https://github.com/chrisbuerginrogers/ME35_21)
 
 ## Demo
 
