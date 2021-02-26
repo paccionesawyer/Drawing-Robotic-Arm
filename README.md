@@ -27,13 +27,9 @@ Simply download the files in this repository and first run the code on the WIO T
 
 ## Demo
 
-### Live Copy Functionality
+### [Live Copy](https://media.giphy.com/media/Wjpp8uTFGSXqaPxPWP/giphy.gif)
 
-![Live Copy](https://media.giphy.com/media/Wjpp8uTFGSXqaPxPWP/giphy.gif)
-
-### Mimic Functionality
-
-![Mimic](https://media.giphy.com/media/YPpXbbER1qSMeWwRI4/giphy.gif)
+### [Mimic](https://media.giphy.com/media/YPpXbbER1qSMeWwRI4/giphy.gif)
 
 ## Authors
 
